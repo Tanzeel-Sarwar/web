@@ -34,4 +34,8 @@ https://github.com/Suleman-Ali/repo
 # Ali Raza
 https://github.com/AliRazaZabtech
 
+# Tanzeel Sarwar 
+Final Project:
+Github Link:  https://github.com/Tanzeel-Sarwar/Final-Project
+Vercel Link:
 
